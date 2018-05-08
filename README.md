@@ -4,14 +4,8 @@
 
 ## Build Setup
 
-``` bash
-# install dependencies
-npm install
-
 # serve with hot reload at localhost:8888
-npm run dev
+npm run dev 运行
+![img](./snake.gif)
 
-# build for production with minification
-npm run build
-```
 
